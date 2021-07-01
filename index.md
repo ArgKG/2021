@@ -16,20 +16,15 @@ collection: pages_2019
 
 We invite the submission of papers and abstracts describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
 
-Papers:
-
-Scope: We invite the submission of papers and abstracts describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
+<b>Papers:</b>
 
 Format and length: Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. All submissions must be formatted with LaTeX using the akbc LaTeX source: akbc-latex.zip. Further details can be found on the AKBC Submission site: https://www.akbc.ws/2021/submission.
 
-Open   Peer   review: Double-blind   reviewing   will   be   performed   on   the OpenReview   platform,    with   papers,    reviews   and   comments   publicly   visible. https://openreview.net/group?id=AKBC.ws/2021/Conference
+Archival/Nonarchival papers:  Authors of accepted papers will have the option for their paper to be archival (with full text in AKBC Proceedings) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this <a href="https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-Archival-venue-and-workshop-with-proceedings">post</a> might be helpful.
 
-Archival/Nonarchival papers:  Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this post might be helpful:  https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-
-Archival-venue-and-workshop-with-proceedings
+<b>Extended Abstracts:</b>
 
-Extended Abstracts:
-
-Scope: We welcome submissions of short abstracts (1 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere.
+We welcome submissions of short abstracts (2 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere.
 Format and scope:  These abstracts can be longer than the typical abstracts for a full research paper. Figures and tables will count toward the length limit. References will not count toward the length limit. All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
 
 ## Important Dates
