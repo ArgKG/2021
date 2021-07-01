@@ -13,8 +13,11 @@ collection: pages_2019
 
 We encourage submissions (but not limited) related to:
 
-- Argument Mining with Graphs
-- Argumentation ....
+- Argumentation knowledge graph construction and evaluation
+- Argumentation knowledge graph schema design in various domains
+- Application of argumentation knowledge graphs in different tasks, such as legal case analysis, student essay assessment, argument relation classification, counter-argument generation
+- Systems and toolkits, demonstration of the existing argumentation knowledge graphs
+- Argumentation knowledge graph and common sense reasoning
 - .....
 - .....
 
