@@ -9,16 +9,29 @@ collection: pages_2019
 
 Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many domains communicating factual knowledge also have an argumentative dimension.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  This inaugural workshop on Argumentative Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on automatic KG construction and computational treatments of argumentation.
 
-- The role of explicit structure in representing knowledge in the future
-- Can language models be knowledge bases?
-- How to effectively combine structured and unstructured knowledge?
-- How to effectively combine external (explicit) and parameterized (implicit) knowledge?
-- How to interpret knowledge that the models potentially have?
-- Applications that make use of structured or unstructured knowledge
-- Transfer learning for diverse knowledge sources
+## Topics of Interest
 
 
-**Due to concerns about COVID-19, Workshop on Argumentation Knowledge Graphs will be fully virtual.**
+## Paper Types
+
+We invite the submission of papers and abstracts describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
+
+Papers:
+
+Scope: We invite the submission of papers and abstracts describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
+
+Format and length: Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. All submissions must be formatted with LaTeX using the akbc LaTeX source: akbc-latex.zip. Further details can be found on the AKBC Submission site: https://www.akbc.ws/2021/submission.
+
+Open   Peer   review: Double-blind   reviewing   will   be   performed   on   the OpenReview   platform,    with   papers,    reviews   and   comments   publicly   visible. https://openreview.net/group?id=AKBC.ws/2021/Conference
+
+Archival/Nonarchival papers:  Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this post might be helpful:  https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-
+Archival-venue-and-workshop-with-proceedings
+
+Extended Abstracts:
+
+Scope: We welcome submissions of short abstracts (1 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere.
+Format and scope:  These abstracts can be longer than the typical abstracts for a full research paper. Figures and tables will count toward the length limit. References will not count toward the length limit. All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
+
 
 ## Registration
 
@@ -27,18 +40,10 @@ Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/20
 ## Invited Speakers
 
 TBA
-<!--
-- [Philipp Cimiano](http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/), Bielefeld University
-- [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/), Northwestern University
-- [Will Hamilton](https://williamleif.github.io/), McGill University / Mila
-- [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli), IBM Research
-- [Fabio Petroni](https://www.fabiopetroni.com/), Facebook AI Research
-- [Colin Raffel](https://craffel.github.io/), University of North Carolina
--->
 
 ## Panel Discussion
 
-We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Philipp Cimiano, Kenneth Forbus, Will Hamilton, Yunyao Li, Fabio Petroni and Colin Raffel.
+TBA
 
 ## Tentative Schedule
 
@@ -92,6 +97,10 @@ ArgKG workshop will be held virtually on October 7th from XXXX - XXXX in Pacific
     <p>Each talk is 25 min + 5 min Q&A.</p>
 </div>
 -->
+
+## Program Committee
+
+TBA
 
 ## Organizing Committee
 - [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzing University, Germany
