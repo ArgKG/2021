@@ -43,7 +43,8 @@ Format and scope:  These abstracts can be longer than the typical abstracts for 
 
 ## Submission Information
 
-All submissions must be formatted with LaTeX using the akbc LaTeX source: akbc-latex.zip. Further details can be found on the <a href="https://www.akbc.ws/2021/submission">AKBC Submission site</a>.
+- All submissions must be formatted with LaTeX using the following LaTeX source: <a href="https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true">akbc-latex.zip</a>. 
+- Further details on submission TBA shortly.
 
 
 ## Registration
@@ -60,7 +61,7 @@ TBA
 
 ## Tentative Schedule
 
-ArgKG workshop will be held virtually on October 7th from XXXX - XXXX in Pacific Time (UTC-7).
+The First ArgKG workshop will be held virtually on October 7, 2021 from XXXX - XXXX in Pacific Time (UTC-7).
 
 <!--
 <div id="schedule">
