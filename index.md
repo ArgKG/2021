@@ -7,9 +7,7 @@ collection: pages_2019
 
 ## Overview
 
-<p style="margin-bottom:3cm;"> Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many domains communicating factual knowledge also have an argumentative dimension.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  This inaugural workshop on Argumentative Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on automatic KG construction and computational treatments of argumentation.</p>
-
-
+<p style="margin-bottom:1cm;"> Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many domains communicating factual knowledge also have an argumentative dimension.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  This inaugural workshop on Argumentative Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on automatic KG construction and computational treatments of argumentation.</p>
 
 ## Topics of Interest
 
