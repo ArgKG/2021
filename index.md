@@ -19,15 +19,15 @@ We encourage submissions (but not limited) related to:
 - .....
 
 
-## Paper Types
+## Article Contributions
 
 We invite the submission of papers and abstracts describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
 
-<b>Papers:</b>
+<b>Full Papers:</b>
 
 Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. 
 
-Archival/Nonarchival papers:  Authors of accepted papers will have the option for their paper to be archival (with full text in AKBC Proceedings) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this <a href="https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-Archival-venue-and-workshop-with-proceedings">post</a> might be helpful.
+Archival/Nonarchival papers:  Authors of accepted papers will have the option for their paper to be archival (with full text in ArgKG Proceedings to be indexed in XXXX) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this <a href="https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-Archival-venue-and-workshop-with-proceedings">post</a> might be helpful.
 
 <b>Extended Abstracts:</b>
 
