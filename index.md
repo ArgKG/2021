@@ -116,7 +116,7 @@ ArgKG workshop will be held virtually on October 7th from XXXX - XXXX in Pacific
 TBA
 
 ## Organizing Committee
-- [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzing University, Germany
+- [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzig University, Germany
 - [Tirthankar Ghosal](https://elitr.eu/tirthankar-ghosal/), Charles University, Czech Republic
 - [Yufang Hou](https://researcher.watson.ibm.com/researcher/view.php?person=ie-YHou), IBM Research, Ireland
 - [Dayne Freitag](https://www.sri.com/bios/dayne-freitag/), SRI International, US
