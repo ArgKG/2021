@@ -7,9 +7,7 @@ collection: pages_2019
 
 ## Overview
 
-There has been growing interest in extracting, representing, and applying knowledge. In NLP literatures, both structured (e.g. Freebase, Wikidata) and unstructured (plain text) text have been used as knowledge sources. Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, generation and fact verification.
-
-The objective of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in various different ways. We promote discussions in related topics including but not limited to:
+Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many domains communicating factual knowledge also have an argumentative dimension.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  This inaugural workshop on Argumentative Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on automatic KG construction and computational treatments of argumentation.
 
 - The role of explicit structure in representing knowledge in the future
 - Can language models be knowledge bases?
