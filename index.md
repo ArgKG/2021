@@ -121,3 +121,5 @@ TBA
 - [Yufang Hou](https://researcher.watson.ibm.com/researcher/view.php?person=ie-YHou), IBM Research, Ireland
 - [Dayne Freitag](https://www.sri.com/bios/dayne-freitag/), SRI International, US
 - [Anita de Waard](https://www.linkedin.com/in/anitadewaard/), Elsevier, US
+
+<b>Website Credits:</b> https://uskb-workshop.github.io
