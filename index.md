@@ -18,7 +18,7 @@ We invite the submission of papers and abstracts describing previously unpublish
 
 <b>Papers:</b>
 
-Format and length: Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. All submissions must be formatted with LaTeX using the akbc LaTeX source: akbc-latex.zip. Further details can be found on the AKBC Submission site: https://www.akbc.ws/2021/submission.
+Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. 
 
 Archival/Nonarchival papers:  Authors of accepted papers will have the option for their paper to be archival (with full text in AKBC Proceedings) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this <a href="https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-Archival-venue-and-workshop-with-proceedings">post</a> might be helpful.
 
@@ -36,7 +36,8 @@ Format and scope:  These abstracts can be longer than the typical abstracts for 
 
 ## Submission Information
 
-TBA
+All submissions must be formatted with LaTeX using the akbc LaTeX source: akbc-latex.zip. Further details can be found on the <a href="https://www.akbc.ws/2021/submission">AKBC Submission site</a>.
+
 
 ## Registration
 
