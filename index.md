@@ -34,8 +34,7 @@ Archival/Non-archival papers:  Authors of accepted papers will have the option f
 
 <b>Extended Abstracts:</b>
 
-We welcome submissions of short abstracts (2 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere.
-Format and scope:  These abstracts can be longer than the typical abstracts for a full research paper. Figures and tables will count toward the length limit. References will not count toward the length limit. All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
+We welcome submissions of short abstracts (2 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere. Figures and tables will count toward the length limit. References will not count toward the length limit. All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
 
 ## Important Dates
 
