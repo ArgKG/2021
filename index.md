@@ -39,6 +39,7 @@ Format and scope:  These abstracts can be longer than the typical abstracts for 
 - Call for Papers: July 6, 2021
 - Paper/Abstract Submission Deadline: August 31, 2021
 - Notification of workshop paper/abstract acceptance: September 22, 2021
+- Camera-ready Submission Deadline: September 30, 2021
 - Workshop: October 7, 2021  
 
 ## Submission Information
