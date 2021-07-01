@@ -18,27 +18,33 @@ Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing
 - Transfer learning for diverse knowledge sources
 
 
-**Due to concerns about COVID-19, Workshop on Unstructured and Structured KBs will be fully virtual.**
+**Due to concerns about COVID-19, Workshop on Argumentation Knowledge Graphs will be fully virtual.**
 
 ## Registration
 
-Workshop registration is included in [AKBC 2020 registration](https://akbc.ws/2020/registration/), along with access to the main conference (June 22-24).
+Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/2021/registration/), along with access to the main conference (October 4-7).
 
 ## Invited Speakers
 
+TBA
+<!--
 - [Philipp Cimiano](http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/), Bielefeld University
 - [Kenneth Forbus](https://users.cs.northwestern.edu/~forbus/), Northwestern University
 - [Will Hamilton](https://williamleif.github.io/), McGill University / Mila
 - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli), IBM Research
 - [Fabio Petroni](https://www.fabiopetroni.com/), Facebook AI Research
 - [Colin Raffel](https://craffel.github.io/), University of North Carolina
+-->
+
+## Panel Discussion
 
 We will also have a panel discussion with [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/), Philipp Cimiano, Kenneth Forbus, Will Hamilton, Yunyao Li, Fabio Petroni and Colin Raffel.
 
 ## Tentative Schedule
 
-USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacific Time (UTC-7).
+ArgKG workshop will be held virtually on October 7th from XXXX - XXXX in Pacific Time (UTC-7).
 
+<!--
 <div id="schedule">
     <ul>
         <li>
@@ -85,12 +91,11 @@ USKB workshop will be held virtually on June 25th from 8:30AM - 12:45PM in Pacif
     </ul>
     <p>Each talk is 25 min + 5 min Q&A.</p>
 </div>
-
+-->
 
 ## Organizing Committee
-- [Danqi Chen](https://www.cs.princeton.edu/~danqic/), Princeton University
-- [Rajarshi Das](http://rajarshd.github.io/), University of Massachusetts Amherst
-- [Angela Fan](https://scholar.google.com/citations?user=TLZR9zgAAAAJ&hl=en), Facebook AI Research
-- [Sewon Min](https://shmsw25.github.io/), University of Washington
-- [Siva Reddy](https://sivareddy.in/), McGill University / Mila
-- [Pat Verga](https://people.cs.umass.edu/~pat/), Google AI
+- [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzing University, Germany
+- [Tirthankar Ghosal](https://elitr.eu/tirthankar-ghosal/), Charles University, Czech Republic
+- [Yufang Hou](https://researcher.watson.ibm.com/researcher/view.php?person=ie-YHou), IBM Research, Ireland
+- [Dayne Freitag](https://www.sri.com/bios/dayne-freitag/), SRI International, US
+- [Anita de Waard](https://www.linkedin.com/in/anitadewaard/), Elsevier, US
