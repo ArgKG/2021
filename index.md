@@ -11,6 +11,13 @@ collection: pages_2019
 
 ## Topics of Interest
 
+We encourage submissions (but not limited) related to:
+
+- Argument Mining with Graphs
+- Argumentation ....
+- .....
+- .....
+
 
 ## Paper Types
 
