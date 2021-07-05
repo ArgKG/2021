@@ -51,7 +51,7 @@ We welcome submissions of extended abstracts (2 page max) related to the above r
 ## Submission Information
 
 - All submissions must be formatted with LaTeX using the following LaTeX source: <a href="https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true">akbc-latex.zip</a>. 
-- Details on submission would be announced here [https://openreview.net/group?id=AKBC.ws/2021/Workshop/ArgKG] (https://openreview.net/group?id=AKBC.ws/2021/Workshop/ArgKG)
+- Details on submission will be available shortly in our <a href="https://openreview.net/group?id=AKBC.ws/2021/Workshop/ArgKG">ArgKG OpenReview Submission</a> site.
 
 ## Registration
 
