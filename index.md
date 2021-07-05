@@ -7,19 +7,25 @@ collection: pages_2019
 
 ## Overview
 
-<p style="margin-bottom:1cm;"> Knowledge graphs (KGs) have demonstrated remarkable effectiveness for addressing various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many domains communicating factual knowledge also have an argumentative dimension.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  This inaugural workshop on Argumentation Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on automatic KG construction and computational treatments of argumentation.</p>
+<p> Knowledge graphs (KGs) have demonstrated remarkable effectiveness on various knowledge-intensive computational tasks in a range of domains, including journalism and the sciences.  Most work on the automatic construction of KGs has focused narrowly on extracting factual assertions from source material, ignoring an important dimension--argumentation.  Many texts that communicate factual knowledge couch that knowledge in argument, in language that asserts, interprets, and reasons.  Arguments are an essential means for forming stances on controversial topics, arriving at successful decisions in the face of uncertainty, and establishing consensus on problems that require interpretation.  An active research community has investigated computational models of textual argumentation, but many important questions lack concrete answers, including the best approaches to formalizing argumentation as a graph, deploying such graphs at scale, and integrating argumentative knowledge with the factual knowledge typically found in KGs.</p>
+
+<p style="margin-bottom:1cm;"> This inaugural workshop on Argumentative Knowledge Graphs (ArgKG) will explore the automatic construction of KGs that encode argumentative structure and the incorporation of argumentation into factual knowledge graphs, drawing together researchers focusing on NLP, automatic KG construction, and computational treatments of argumentation. </p>
 
 ## Topics of Interest
 
-We encourage submissions (but not limited) related to:
+The topics for submissions include but are not limited to: 
 
-- Argumentation knowledge graph construction and evaluation
-- Argumentation knowledge graph schema design in various domains
-- Application of argumentation knowledge graphs in different tasks, such as legal case analysis, student essay assessment, argument relation classification, counter-argument generation
-- Systems and toolkits, demonstration of the existing argumentation knowledge graphs
-- Argumentation knowledge graph and common sense reasoning
-- .....
-- .....
+- Argumentation knowledge graph (ArgKG) design, construction, and evaluation
+- Specific applications involving the use of argumentative knowledge, such as question answering, legal case analysis, student essay assessment, and counter-argument generation
+- Models and methods for the automatic construction of ArgKGs
+- Systems and toolkits for building, maintaining, and using ArgKGs
+- Reasoning with ArgKGs
+- The role of common sense in the use of ArgKGs
+- The augmentation of traditional KGs with argumentation knowledge
+- Uses of argumentation knowledge in the search and navigation of large-scale KGs
+- Improvements in machine reading through the incorporation of argumentation knowledge
+- Alternative (e.g., deep learning) representations of argumentation knowledge
+
 
 
 ## Article Contributions
@@ -28,13 +34,11 @@ We invite the submission of papers and abstracts describing previously unpublish
 
 <b>Full Papers:</b>
 
-Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document.  We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized. 
-
-Archival/Non-archival papers:  Authors of accepted papers will have the option for their paper to be archival (with full text in ArgKG Proceedings to be indexed in XXXX) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  For more on non-archival proceedings, this <a href="https://academia.stackexchange.com/questions/138797/what-exactly-is-a-non-Archival-venue-and-workshop-with-proceedings">post</a> might be helpful.
+Papers are non-archival and should report works not published previously elsewhere. Accepted papers would be listed on the workshop schedule, with full text in OpenReview, with the flexibility to submit elsewhere. We invite papers of all types including mature works, late-breaking, work-in-progress, and position papers. Articles under review in other venues are also welcome if that is permissible. Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. Like submissions, supplementary material must be anonymized. 
 
 <b>Extended Abstracts:</b>
 
-We welcome submissions of short abstracts (2 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are non-archival, so participants are free to also submit their work for publication elsewhere. Figures and tables will count toward the length limit. References will not count toward the length limit. All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
+We welcome submissions of extended abstracts (2 page max) related to the above research areas.  Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work or work in progress or summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. These abstracts are also non-archival, so participants are free to also submit their work for publication elsewhere. Figures and tables will count toward the length limit while references are excluded. Like papers, extended abstracts are also anonymous during submission.
 
 ## Important Dates
 
@@ -47,8 +51,7 @@ We welcome submissions of short abstracts (2 page max) related to the above rese
 ## Submission Information
 
 - All submissions must be formatted with LaTeX using the following LaTeX source: <a href="https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true">akbc-latex.zip</a>. 
-- Further details on submission TBA shortly.
-
+- Details on submission would be announced here [https://openreview.net/group?id=AKBC.ws/2021/Workshop/ArgKG] (https://openreview.net/group?id=AKBC.ws/2021/Workshop/ArgKG)
 
 ## Registration
 
@@ -117,7 +120,7 @@ The First ArgKG workshop will be held virtually on October 7, 2021 from XXXX - X
 
 ## Program Committee
 
-TBA
+TBA shortly
 
 ## Organizing Committee
 - [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzig University, Germany
