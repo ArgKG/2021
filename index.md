@@ -48,6 +48,8 @@ We welcome submissions of extended abstracts (2 page max) related to the above r
 - Camera-ready Submission Deadline: September 30, 2021
 - Workshop: October 7, 2021  
 
+* All submission deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
+
 ## Submission Information
 
 - All submissions must be formatted with LaTeX using the following LaTeX source: <a href="https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true">akbc-latex.zip</a>. 
