@@ -42,7 +42,7 @@ We welcome submissions of extended abstracts (2 pages max) related to the resear
 - Paper/Abstract Submission Deadline: August 31, 2021
 - Notification of workshop paper/abstract acceptance: September 22, 2021
 - Camera-ready Submission Deadline: September 30, 2021
-- Workshop: October 7, 2021  
+- Workshop: October 8, 2021  
 
 <p>***<i>All submission deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”)</i>***</p>
 
@@ -65,7 +65,7 @@ TBA
 
 ## Tentative Schedule
 
-The First ArgKG workshop will be held virtually on October 7, 2021 from XXXX - XXXX in Pacific Time (UTC-7).
+The First ArgKG workshop will be held virtually on October 8, 2021 from XXXX - XXXX in Pacific Time (UTC-7).
 
 <!--
 <div id="schedule">
