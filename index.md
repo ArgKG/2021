@@ -57,7 +57,9 @@ Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/20
 
 ## Invited Speakers
 
-TBA
+- <a href="https://www.cs.cmu.edu/~yohanj/">Yohan Jo</a>, Alexa AI-Natural Understanding, Amazon, US
+- <a href="http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/">Phillip Cimiano</a>, CITEC, Bielefeld University, Germany
+- <a href="https://www.philosophie.kit.edu/mitarbeiter_betz_gregor.php">Gregor Betz</a>, Karlsruhe Institute of Technology, Germany
 
 ## Panel Discussion
 
