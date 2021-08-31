@@ -39,7 +39,7 @@ We welcome submissions of extended abstracts (2 pages max) related to the resear
 ## Important Dates
 
 - Call for Papers: July 6, 2021
-- Paper/Abstract Submission Deadline: September 10, 2021
+- Paper/Abstract Submission Deadline: September 10, 2021 (extended)
 - Notification of workshop paper/abstract acceptance: September 25, 2021
 - Camera-ready Submission Deadline: October 2, 2021
 - Workshop: October 8, 2021  
@@ -120,7 +120,15 @@ The First ArgKG workshop will be held virtually on October 8, 2021 from XXXX - X
 
 ## Program Committee
 
-TBA shortly
+- Paul Groth, University of Amsterdam, Netherlands
+- Sourish Dasgupta, RAxter Inc, India
+- Anne Lauscher, University of Mannheim, Germany
+- Muskaan Singh, Charles University, Czech Republic
+- Gully Burns, Chan Zuckerberg Initiative, US
+- Jennifer D'Souza, TIB Hannover, Germany
+- George Tsatsaronis, Elsevier, Germany
+- Ellie Young, Knowledge Graph Conference
+- Serena Villata, CNRS, Italy
 
 ## Organizing Committee
 - [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzig University, Germany
