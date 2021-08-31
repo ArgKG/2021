@@ -39,9 +39,9 @@ We welcome submissions of extended abstracts (2 pages max) related to the resear
 ## Important Dates
 
 - Call for Papers: July 6, 2021
-- Paper/Abstract Submission Deadline: August 31, 2021
-- Notification of workshop paper/abstract acceptance: September 22, 2021
-- Camera-ready Submission Deadline: September 30, 2021
+- Paper/Abstract Submission Deadline: September 10, 2021
+- Notification of workshop paper/abstract acceptance: September 25, 2021
+- Camera-ready Submission Deadline: October 2, 2021
 - Workshop: October 8, 2021  
 
 <p>***<i>All submission deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”)</i>***</p>
