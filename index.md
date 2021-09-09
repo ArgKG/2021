@@ -42,7 +42,7 @@ We welcome submissions of extended abstracts (2 pages max) related to the resear
 - Paper/Abstract Submission Deadline: September 10, 2021 (extended)
 - Notification of workshop paper/abstract acceptance: September 25, 2021
 - Camera-ready Submission Deadline: October 2, 2021
-- Workshop: October 8, 2021  
+- Workshop: October 7, 2021  
 
 <p>***<i>All submission deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”)</i>***</p>
 
