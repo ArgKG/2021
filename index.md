@@ -57,17 +57,21 @@ Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/20
 
 ## Invited Speakers
 
-- <a href="https://www.cs.cmu.edu/~yohanj/">Yohan Jo</a>, Alexa AI-Natural Understanding, Amazon, US
-- <a href="http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/">Phillip Cimiano</a>, CITEC, Bielefeld University, Germany
 - <a href="https://www.philosophie.kit.edu/mitarbeiter_betz_gregor.php">Gregor Betz</a>, Karlsruhe Institute of Technology, Germany
+- <a href="http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/">Phillip Cimiano</a>, CITEC, Bielefeld University, Germany
+- - <a href="https://www.cs.cmu.edu/~yohanj/">Yohan Jo</a>, Alexa AI-Natural Understanding, Amazon, US
 
 ## Panel Discussion
 
-TBA
+- <a href="https://www.cwi.nl/people/davide-ceolin">Davide Ceolin</a>, Centrum Wiskunde & Informatica (CWI), Amsterdam, NL
+- <a href="https://compsci.uncg.edu/faculty/green/">Nancy Green</a>, University of North Carolina at Greensboro, US
+- <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp">Iryna Gurevych</a>, Technische Universität Darmstadt, Germany
+- <a href="https://www.cl.cam.ac.uk/~sht25/">Simone Teufel</a>, University of Cambridge, UK
+- <a href="https://yeyuxiao.github.io">Yuxiao Ye</a>, University of Cambridge, UK
 
 ## Tentative Schedule
 
-The First ArgKG workshop will be held virtually on October 8, 2021 from XXXX - XXXX in Pacific Time (UTC-7).
+The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:00 in Pacific Time (UTC-7).
 
 <!--
 <div id="schedule">
@@ -120,15 +124,18 @@ The First ArgKG workshop will be held virtually on October 8, 2021 from XXXX - X
 
 ## Program Committee
 
-- Paul Groth, University of Amsterdam, Netherlands
-- Sourish Dasgupta, RAxter Inc, India
-- Anne Lauscher, University of Mannheim, Germany
-- Muskaan Singh, Charles University, Czech Republic
 - Gully Burns, Chan Zuckerberg Initiative, US
+- Philipp Cimiano, Bielefeld University, Germany
+- Sourish Dasgupta, RAxter Inc, India
 - Jennifer D'Souza, TIB Hannover, Germany
+- Paul Groth, University of Amsterdam, Netherlands
+- Anne Lauscher, University of Mannheim, Germany
+- Jodi Schneider, University of Illinois at Urbana Champaign, US
+- Muskaan Singh, Charles University, Czech Republic
 - George Tsatsaronis, Elsevier, Germany
-- Ellie Young, Knowledge Graph Conference
 - Serena Villata, CNRS, Italy
+- Henning Wachsmuth, Paderborn University, Germany
+- Ellie Young, Knowledge Graph Conference
 
 ## Organizing Committee
 - [Khalid Al-Khatib](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/alkhatib/), Leipzig University, Germany
