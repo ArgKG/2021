@@ -71,7 +71,7 @@ Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/20
 
 ## Tentative Schedule
 
-The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:00 in Pacific Time (UTC-7).
+The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:00 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a>
 
 <!--
 <div id="schedule">
