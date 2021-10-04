@@ -23,6 +23,25 @@ The topics for submissions include but are not limited to:
 - Visualization and exploratory analysis of ArgKG 
 - Alternative (e.g., deep learning) representations of argumentation knowledge 
 
+## Invited Speakers
+
+- <a href="https://www.philosophie.kit.edu/mitarbeiter_betz_gregor.php">Gregor Betz</a>, Karlsruhe Institute of Technology, Germany
+- <a href="http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/">Phillip Cimiano</a>, CITEC, Bielefeld University, Germany
+- <a href="https://www.cs.cmu.edu/~yohanj/">Yohan Jo</a>, Alexa AI-Natural Understanding, Amazon, US
+
+## Panel Discussion
+
+- <a href="https://www.cwi.nl/people/davide-ceolin">Davide Ceolin</a>, Centrum Wiskunde & Informatica (CWI), Amsterdam, NL
+- <a href="https://compsci.uncg.edu/faculty/green/">Nancy Green</a>, University of North Carolina at Greensboro, US
+- <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp">Iryna Gurevych</a>, Technische Universität Darmstadt, Germany
+- <a href="https://www.cl.cam.ac.uk/~sht25/">Simone Teufel</a>, University of Cambridge, UK
+- <a href="https://yeyuxiao.github.io">Yuxiao Ye</a>, University of Cambridge, UK
+
+## Schedule
+
+- <mark>The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:15 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a></mark>
+- Please join via the AKBC 2021 <a href="https://akbc.ws/2021/virtual">Virtual Hub</a>
+
 
 ## Article Contributions
 
@@ -35,6 +54,7 @@ Papers are non-archival, with the flexibility to submit in any venue in addition
 <b>Extended Abstracts:</b>
 
 We welcome submissions of extended abstracts (2 pages max) related to the research topics mentioned above. Submissions may include previously published results, late-breaking results, and work in progress. Extended abstracts can summarize existing work, work in progress, or a collection of works under a unified theme (e.g., a series of closely related papers that build on each other or tackle a common problem). Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop. The abstracts are non-archival; participants are free to also submit their work for publication elsewhere. Figures and tables will count toward the length limit while references are excluded. Similar to full papers, extended abstracts should be anonymous during submission. 
+
 
 ## Important Dates
 
@@ -54,24 +74,6 @@ We welcome submissions of extended abstracts (2 pages max) related to the resear
 ## Registration
 
 Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/2021/registration/), along with access to the main conference (October 4-7).
-
-## Invited Speakers
-
-- <a href="https://www.philosophie.kit.edu/mitarbeiter_betz_gregor.php">Gregor Betz</a>, Karlsruhe Institute of Technology, Germany
-- <a href="http://www.sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/">Phillip Cimiano</a>, CITEC, Bielefeld University, Germany
-- <a href="https://www.cs.cmu.edu/~yohanj/">Yohan Jo</a>, Alexa AI-Natural Understanding, Amazon, US
-
-## Panel Discussion
-
-- <a href="https://www.cwi.nl/people/davide-ceolin">Davide Ceolin</a>, Centrum Wiskunde & Informatica (CWI), Amsterdam, NL
-- <a href="https://compsci.uncg.edu/faculty/green/">Nancy Green</a>, University of North Carolina at Greensboro, US
-- <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp">Iryna Gurevych</a>, Technische Universität Darmstadt, Germany
-- <a href="https://www.cl.cam.ac.uk/~sht25/">Simone Teufel</a>, University of Cambridge, UK
-- <a href="https://yeyuxiao.github.io">Yuxiao Ye</a>, University of Cambridge, UK
-
-## Tentative Schedule
-
-The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:00 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a>
 
 <!--
 <div id="schedule">
