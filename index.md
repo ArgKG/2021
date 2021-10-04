@@ -69,9 +69,10 @@ Workshop registration is included in [AKBC 2021 registration](https://akbc.ws/20
 - <a href="https://www.cl.cam.ac.uk/~sht25/">Simone Teufel</a>, University of Cambridge, UK
 - <a href="https://yeyuxiao.github.io">Yuxiao Ye</a>, University of Cambridge, UK
 
-## Tentative Schedule
+## Schedule
 
-The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:00 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a>
+- <mark>The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:15 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a></mark>
+- Please join via the AKBC 2021 <a href="https://akbc.ws/2021/virtual">Virtual Hub</a>
 
 <!--
 <div id="schedule">
