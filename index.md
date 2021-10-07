@@ -39,7 +39,7 @@ The topics for submissions include but are not limited to:
 
 ## Schedule
 
-- <mark>The First ArgKG workshop will be held virtually on October 7, 2021 from 06:00 - 12:15 in Pacific Time (UTC-7). The tentative schedule is <a href="schedule.html">here</a></mark>
+- <mark>The First ArgKG workshop will be held virtually on October 7, 2021 (Thursday) from 06:00 - 12:15 in Pacific Time (UTC-7). The schedule is <a href="schedule.html">here</a></mark>
 - Please join via the AKBC 2021 <a href="https://akbc.ws/2021/virtual">Virtual Hub</a>
 
 
